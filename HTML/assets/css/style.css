@@ -1,0 +1,186 @@
+body{
+	margin:0;
+	font-family: Bebas Neue;
+	font-size: 20px;
+	color: #88B06A;
+}
+a{ 
+	color: #88B06A;
+}
+.base{
+	height: 45px;
+	box-shadow: 2px 0px 2px grey;
+}
+.newbase{
+	width: 85%;
+	margin: auto;
+	height: 3700px;
+}
+.menu{
+	width: 85%;
+	height: 45px;
+	margin: auto;
+}
+.menuleft{
+	width: 50%;
+	height: 45px;
+	float: left;
+}
+.menuright{
+	width: 50%;
+	height: 45px;
+	float: right;
+}
+.menuleft ul{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+.menuright ul{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+.menuleft li{
+	float: left;
+	height: 45px;
+	line-height: 45px;
+	margin-right: 20px;
+	font-weight: bold;
+}
+.menuright li{
+	float: right;
+	height: 45px;
+	line-height: 45px;
+	margin-left: 20px;
+	font-family: Times New Roman;
+	font-size: 16px;
+}
+.body{
+	width: 85%;
+	height: 200px;
+	margin: auto;
+}
+.name{
+	text-align: center;
+	margin-top: 50px;
+	font-size: 56px;
+	margin-bottom: 10px;
+}
+.info{
+	text-align: center;
+	font-size: 14px;
+	font-family: Times New Roman;
+	color: black;
+	margin-bottom: 10px;
+}
+.phone{
+	margin: auto;
+	text-align: center;
+	font-size: 16px;
+	font-family: Times New Roman;
+	line-height: 50px;
+	width: 300px;
+	height: 50px;
+	background: #88B06A;
+	color: white;
+	border-radius: 3px;
+}
+.img img{
+	margin-top: 30px;
+	width: 100%;
+	height: auto;
+	display: block;
+	margin-bottom: 80px;
+}
+.att{
+	text-align: center;
+	color: black;
+	font-weight: bold;
+	font-size: 16px;
+	margin-bottom: 30px;
+}
+.card{
+	margin-right: 5px;
+	margin-left: 5px;
+	display: inline-block;
+	width: 30%;
+	height: auto;
+}
+.new2{
+	margin-top: 20px;
+	font-family: Times New Roman;
+	font-size: 14px;
+}
+.new{
+	margin: 0;
+	color: black;
+	font-family: Times New Roman;
+	font-size: 14px;
+	margin-bottom: 60px;
+}
+.card img{
+	margin-top: 2px;
+}
+.newdep2{
+	font-family: Times New Roman;
+	font-size: 14px;
+	text-align: center;
+}
+.newdep{
+	margin-top: 20px;
+	color: black;
+	font-family: Times New Roman;
+	font-size: 14px;
+	margin-bottom: 60px;
+}
+.dept{
+	font-family: Times New Roman;
+	font-size: 16px;
+	margin: auto;
+	text-align: center;
+	margin-bottom: 30PX;
+}
+.food{
+	margin-right: 5px;
+	margin-left: 5px;
+	display: inline-block;
+	width: 31%;
+	height: auto;
+}
+.margin{
+	margin-top: 40px;
+}
+.maps img{
+	width: 100%;
+	height: auto;
+}
+.footer{
+	width: 33.3%;
+	margin-top: 30px;
+	font-size: 20px;
+	color: black;
+	float: left;
+}
+.block{
+	margin-top: 15px;
+	margin-bottom: 15px;
+	text-align: center;
+	font-size: 16px;
+	font-family: Times New Roman;
+	line-height: 50px;
+	width: 200px;
+	height: 50px;
+	background: #88B06A;
+	color: white;
+	border-radius: 3px;
+}
+.footer li{
+	list-style: none;
+	text-decoration: none;
+	font-family: Times New Roman;
+	font-size: 15px;
+}
+.footer ul{
+	padding: 0;
+}
